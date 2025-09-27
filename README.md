@@ -1,4 +1,4 @@
-# Portfolio-simple-website
+# My-Portfolio-website
 Technologies Used
 
 HTML5 – For structuring the content
